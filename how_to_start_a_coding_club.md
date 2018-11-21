@@ -1,6 +1,6 @@
 # How to start a coding club
 
-*TL;DR: start small, be hands-on, use existing tutorials.*
+*Summary: start small, be hands-on, use existing tutorials, have fun.*
 
 Here is my advice for starting a coding club. 
 
