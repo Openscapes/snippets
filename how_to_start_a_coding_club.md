@@ -8,7 +8,7 @@ An example is [Eco-Data-Science](http://eco-data-science.github.io/) at UCSB. We
 
 ## Start small
 
-Start off with a few interested people so that you can start now with less scheduling involved. Find a space to meet in your lab, or department, and get started now.
+Start off with a few interested people so that you can start now with less scheduling involved. Find a space to meet in your lab, or department.
 
 ## Be hands-on
 
