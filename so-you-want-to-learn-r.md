@@ -16,7 +16,7 @@ Coding is collaborative. You will want to share code with others — starting wi
 
 If you want to learn R and GitHub together, I would recommend starting with the Ocean Health Index's [Introduction to Open Data Science](http://ohi-science.org/data-science-training/). Our team developed and has been teaching from this book for nearly four years, building from other freely available tutorials.
 
-[Introduction to Open Data Science](http://ohi-science.org/data-science-training/) has lessons for a 2-day course, and starts with how to install all the software you will need for the course. Each chapter builds from the previous, so that you practice your skills together as a workflow. We also recorded me teaching from this book; videos are posted on the [OHI-Science YouTube Channel](https://www.youtube.com/watch?v=xpe7jmt0-J4&list=PLX7J3qtjcll_4s2oaKHuWdRdBMJz7tBAU). 
+[Introduction to Open Data Science](http://ohi-science.org/data-science-training/) has lessons for a 2-day course, broken into 1.5-hour sessions. It starts with how to install all the software you will need for the course, and then each chapter builds from the previous, so that you practice your skills together as a workflow. We also recorded me teaching from this book; videos are posted on the [OHI-Science YouTube Channel](https://www.youtube.com/watch?v=xpe7jmt0-J4&list=PLX7J3qtjcll_4s2oaKHuWdRdBMJz7tBAU). 
 
 I would also recommend watching the [RStudio webinar](https://resources.rstudio.com/) called "Advanced Data Science: Collaboration and time travel — version control with git, github, and RStudio" (navigate there from the Learning Roadmap).
 
