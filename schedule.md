@@ -6,7 +6,7 @@ Thursdays 10:30-12:00 PT // 1:30-3:00 ET
 | Week | Date | Note |
 |------|------|------|
 |1| Jan 17 | |
-|2| Jan 24 | | *Rescheduled from Jan 31 due to conflict* 
+|2| Jan 24 | | Rescheduled from Jan 31 due to conflict
 |3| Feb 14 | |
 |4| Feb 28 | |
 |5| Mar 14 | |
