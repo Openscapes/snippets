@@ -1,0 +1,2 @@
+- ["...if you’ve taught a [#rstats] workshop before, what are your tips for having it be successful?"](https://twitter.com/LWhiteScience/status/1115926364001947648?s=19)
+- [@dataandme: "The only thing better than @AmeliaMN's syntax cheat sheet? The FAQ!"](https://twitter.com/dataandme/status/966761080679817216?s=19)
